@@ -23,13 +23,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "src/bootstrap.css",
-              "src/bootstrap.min.css"
+              "src/assets/css/styles.css",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/fontawesome.css",
+               "src/assets/css/icons.css",
+                "src/assets/css/icon-font.css"
+
             ],
             "scripts": [
-              "src/bootstrap.js",
-              "src/bootstrap.min.js"
+              "src/assets/js/bootstrap.js",
+              "src/assets/js/bootstrap.min.js"
             ]
           },
           "configurations": {
